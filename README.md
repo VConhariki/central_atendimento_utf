@@ -103,6 +103,9 @@ flutter run
 	 - NDK: 27.0.12077973
 	 - JAVA: 11 ou maior
 
+### 🔹 6. Facilitando os testes
+
+Para testar mais facilmente faça login com usuário: vagner.conhariki@gmail.com e senha: 123456
 
 
 ## ℹ️ Informações Técnicas
