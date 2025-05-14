@@ -51,7 +51,7 @@ flutter doctor
 ### 🔹 3. Clonar o Projeto
 
 ```bash
-https://github.com/VConhariki/central_atendimento_utf 
+git clone https://github.com/VConhariki/central_atendimento_utf.git
 ```
 ```bash
 cd central_atendimento_utf

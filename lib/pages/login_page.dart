@@ -1,5 +1,5 @@
-import 'package:central_atendimento_utf/home_page.dart';
-import 'package:central_atendimento_utf/register_page.dart';
+import 'package:central_atendimento_utf/pages/home_page.dart';
+import 'package:central_atendimento_utf/pages/register_page.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
