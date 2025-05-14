@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631635452209",
+    "project_id": "central-atendimento-utf",
+    "storage_bucket": "central-atendimento-utf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631635452209:android:f20e4b31e799cfe7e1d010",
+        "android_client_info": {
+          "package_name": "com.utfpr.centralatendimento"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd5fFcGC6FQXN2PhUIeoLwSukOvFCtMRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
