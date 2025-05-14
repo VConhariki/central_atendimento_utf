@@ -60,15 +60,20 @@ flutter pub get`
 No seu `pubspec.yaml`, certifique-se de ter:
 
 ```yaml
-dependencies:  
-	flutter:  
-		sdk:  flutter  
-	firebase_core:  ^2.0.0  
-	firebase_auth:  ^4.0.0  
-	cloud_firestore:  ^4.0.0  
-	image_picker:  ^1.0.0  
-	geolocator:  ^10.0.0  
-	flutter_image_compress:  ^2.1.0` 
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.13.0
+  firebase_auth: ^5.5.3
+  cloud_firestore: ^5.6.7
+  image_picker: ^1.0.7
+  geolocator: ^14.0.0
+  provider: ^6.1.2
+  path_provider: ^2.1.2
+  cupertino_icons: ^1.0.8
+  firebase_app_check: ^0.3.2+5
+  flutter_image_compress: ^2.4.0
+  flutter_screenutil: ^5.9.3
 ```
 
 Depois:
