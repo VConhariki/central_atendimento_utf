@@ -51,9 +51,13 @@ flutter doctor
 ### 🔹 3. Clonar o Projeto
 
 ```bash
-git clone https://github.com/seu-usuario/flutter-central-atendimento-utfpr.git 
-cd flutter-central-atendimento-utfpr
-flutter pub get`
+https://github.com/VConhariki/central_atendimento_utf 
+```
+```bash
+cd central_atendimento_utf
+```
+```bash
+flutter pub get
 ```
 ### 🔹 4. Verificar Dependências
 
@@ -79,7 +83,7 @@ dependencies:
 Depois:
 
 ```bash
-flutter pub get`
+flutter pub get
 ```
 
 ### 🔹 5. Rodar o App
